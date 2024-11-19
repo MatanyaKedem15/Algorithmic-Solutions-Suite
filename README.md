@@ -32,14 +32,6 @@ A comprehensive collection of computational algorithms and solutions implemented
 
 ---
 
-## How to Run
-
-1. Clone or download the repository.
-2. Open MATLAB.
-3. Run the main script:
-   ```matlab
-   run_algorithm_suite;
-
 **Examples**
 
 
